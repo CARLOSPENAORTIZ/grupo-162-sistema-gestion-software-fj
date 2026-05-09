@@ -1,0 +1,145 @@
+2026-05-06 15:02:33 - SoftwareFJ - INFO - Cliente creado: Juan Pérez (ID: 9200bc1d)
+2026-05-06 15:02:33 - SoftwareFJ - WARNING - Cliente María González sin teléfono
+2026-05-06 15:02:33 - SoftwareFJ - INFO - Cliente creado: María González (ID: 14f69447)
+2026-05-06 15:02:33 - SoftwareFJ - ERROR - Error al crear cliente: El formato del email es inválido
+2026-05-06 15:02:33 - SoftwareFJ - INFO - Servicio creado: Sala de Reuniones Premium (ID: b097302e)
+2026-05-06 15:02:33 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 3h = $150000.0
+2026-05-06 15:02:33 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 5h = $225000.0
+2026-05-06 15:02:33 - SoftwareFJ - INFO - Servicio creado: Laptop HP EliteBook (ID: 82848bf8)
+2026-05-06 15:02:33 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 2d x1 = $60000.0
+2026-05-06 15:02:33 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 3d x2 = $198000.00000000003
+2026-05-06 15:02:33 - SoftwareFJ - INFO - Servicio creado: Asesoría en Desarrollo de Software (ID: 018dadae)
+2026-05-06 15:02:33 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 1 sesiones = $80000.0
+2026-05-06 15:02:33 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 3 sesiones = $360000.0
+2026-05-06 15:02:33 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 4h = $200000.0
+2026-05-06 15:02:33 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 7d x1 = $210000.0
+2026-05-06 15:02:33 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 2 sesiones = $160000.0
+2026-05-06 15:02:33 - SoftwareFJ - ERROR - Error al crear servicio: El precio debe ser mayor a 0
+2026-05-06 15:09:29 - SoftwareFJ - INFO - Cliente creado: Carlos peña (ID: 0b2206e6)
+2026-05-06 15:09:29 - SoftwareFJ - WARNING - Cliente María González sin teléfono
+2026-05-06 15:09:29 - SoftwareFJ - INFO - Cliente creado: María González (ID: 752ad552)
+2026-05-06 15:09:29 - SoftwareFJ - ERROR - Error al crear cliente: El formato del email es inválido
+2026-05-06 15:09:29 - SoftwareFJ - INFO - Servicio creado: Sala de Reuniones Premium (ID: 1d57e6d5)
+2026-05-06 15:09:29 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 3h = $150000.0
+2026-05-06 15:09:29 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 5h = $225000.0
+2026-05-06 15:09:29 - SoftwareFJ - INFO - Servicio creado: Laptop HP EliteBook (ID: 12c5374c)
+2026-05-06 15:09:29 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 2d x1 = $60000.0
+2026-05-06 15:09:29 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 3d x2 = $198000.00000000003
+2026-05-06 15:09:29 - SoftwareFJ - INFO - Servicio creado: Asesoría en Desarrollo de Software (ID: 0bb8dc3b)
+2026-05-06 15:09:29 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 1 sesiones = $80000.0
+2026-05-06 15:09:29 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 3 sesiones = $360000.0
+2026-05-06 15:09:29 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 4h = $200000.0
+2026-05-06 15:09:29 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 7d x1 = $210000.0
+2026-05-06 15:09:29 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 2 sesiones = $160000.0
+2026-05-06 15:09:29 - SoftwareFJ - ERROR - Error al crear servicio: El precio debe ser mayor a 0
+2026-05-06 15:22:34 - SoftwareFJ - INFO - Cliente creado: Carlos peña (ID: 1ce4cea8)
+2026-05-06 15:22:34 - SoftwareFJ - WARNING - Cliente María González sin teléfono
+2026-05-06 15:22:34 - SoftwareFJ - INFO - Cliente creado: María González (ID: 31428fe4)
+2026-05-06 15:22:34 - SoftwareFJ - ERROR - Error al crear cliente: El formato del email es inválido
+2026-05-06 15:22:34 - SoftwareFJ - INFO - Servicio creado: Sala de Reuniones Premium (ID: 2cdfccbb)
+2026-05-06 15:22:34 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 3h = $150000.0
+2026-05-06 15:22:34 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 5h = $225000.0
+2026-05-06 15:22:34 - SoftwareFJ - INFO - Servicio creado: Laptop HP EliteBook (ID: 3c9cf894)
+2026-05-06 15:22:34 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 2d x1 = $60000.0
+2026-05-06 15:22:34 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 3d x2 = $198000.00000000003
+2026-05-06 15:22:34 - SoftwareFJ - INFO - Servicio creado: Asesoría en Desarrollo de Software (ID: 38cc7dc1)
+2026-05-06 15:22:34 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 1 sesiones = $80000.0
+2026-05-06 15:22:34 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 3 sesiones = $360000.0
+2026-05-06 15:22:34 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 4h = $200000.0
+2026-05-06 15:22:34 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 7d x1 = $210000.0
+2026-05-06 15:22:34 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 2 sesiones = $160000.0
+2026-05-06 15:22:34 - SoftwareFJ - ERROR - Error al crear servicio: El precio debe ser mayor a 0
+2026-05-07 06:45:32 - SoftwareFJ - INFO - Cliente creado: Carlos peña (ID: a2aafebf)
+2026-05-07 06:45:32 - SoftwareFJ - WARNING - Cliente María González sin teléfono
+2026-05-07 06:45:32 - SoftwareFJ - INFO - Cliente creado: María González (ID: ca3071ed)
+2026-05-07 06:45:32 - SoftwareFJ - ERROR - Error al crear cliente: El formato del email es inválido
+2026-05-07 06:45:32 - SoftwareFJ - INFO - Servicio creado: Sala de Reuniones Premium (ID: b16ab4d6)
+2026-05-07 06:45:32 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 3h = $150000.0
+2026-05-07 06:45:32 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 5h = $225000.0
+2026-05-07 06:45:32 - SoftwareFJ - INFO - Servicio creado: Laptop HP EliteBook (ID: c23da19f)
+2026-05-07 06:45:32 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 2d x1 = $60000.0
+2026-05-07 06:45:32 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 3d x2 = $198000.00000000003
+2026-05-07 06:45:32 - SoftwareFJ - INFO - Servicio creado: Asesoría en Desarrollo de Software (ID: c0c4e4ad)
+2026-05-07 06:45:32 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 1 sesiones = $80000.0
+2026-05-07 06:45:32 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 3 sesiones = $360000.0
+2026-05-07 06:45:32 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 4h = $200000.0
+2026-05-07 06:45:32 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 7d x1 = $210000.0
+2026-05-07 06:45:32 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 2 sesiones = $160000.0
+2026-05-07 06:45:32 - SoftwareFJ - ERROR - Error al crear servicio: El precio debe ser mayor a 0
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Cliente creado: Juan Pérez (ID: f8d4b82a)
+2026-05-07 06:50:53 - SoftwareFJ - WARNING - Cliente María González sin teléfono
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Cliente creado: María González (ID: eb56499e)
+2026-05-07 06:50:53 - SoftwareFJ - ERROR - Error al crear cliente: El formato del email es inválido
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Servicio creado: Sala de Reuniones Premium (ID: f83c0ee0)
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 3h = $150000.0
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Servicio creado: Laptop HP EliteBook (ID: 1003e6db)
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 2d x1 = $60000.0
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Servicio creado: Asesoría en Desarrollo de Software (ID: 99a5b119)
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 1 sesiones = $80000.0
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 4h = $180000.0
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo calculado para reserva 6d85a460: $180000.0
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Reserva creada: Juan Pérez - Sala de Reuniones Premium (ID: 6d85a460, Costo: $180000.0)
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Reserva 6d85a460 confirmada para Juan Pérez
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 3d x2 = $198000.00000000003
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo calculado para reserva ff8fcc81: $198000.0
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Reserva creada: María González - Laptop HP EliteBook (ID: ff8fcc81, Costo: $198000.0)
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Iniciando procesamiento de reserva ff8fcc81
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Reserva ff8fcc81 confirmada para María González
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Reserva ff8fcc81 completada. Duración: 0:00:00.101310
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Reserva ff8fcc81 procesada exitosamente
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Finalizando procesamiento de reserva ff8fcc81
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 3 sesiones = $360000.0
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo calculado para reserva 61881e21: $360000.0
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Reserva creada: Juan Pérez - Asesoría en Desarrollo de Software (ID: 61881e21, Costo: $360000.0)
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 5 sesiones = $400000.0
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo calculado para reserva 61881e21: $400000.0
+2026-05-07 06:50:53 - SoftwareFJ - INFO - Costo recalculado para reserva 61881e21: $360000.0 → $400000.0
+2026-05-07 06:50:53 - SoftwareFJ - WARNING - Reserva 61881e21 cancelada. Motivo: Cliente canceló por conflicto de horario
+2026-05-07 06:50:53 - SoftwareFJ - ERROR - Error al crear servicio: El precio debe ser mayor a 0
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 2h = $100000.0
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 4d x1 = $120000.0
+2026-05-07 06:50:53 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 2 sesiones = $160000.0
+2026-05-07 06:55:56 - SoftwareFJ - ERROR - Error al crear cliente: El formato del email es inválido
+2026-05-07 06:55:56 - SoftwareFJ - WARNING - Cliente María González sin teléfono
+2026-05-07 06:55:56 - SoftwareFJ - INFO - Cliente creado: María González (ID: 9b5b979c)
+2026-05-07 06:55:56 - SoftwareFJ - ERROR - Error al crear cliente: El formato del email es inválido
+2026-05-07 06:55:56 - SoftwareFJ - INFO - Servicio creado: Sala de Reuniones Premium (ID: 2138569a)
+2026-05-07 06:55:56 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 3h = $150000.0
+2026-05-07 06:55:56 - SoftwareFJ - INFO - Servicio creado: Laptop HP EliteBook (ID: 611db6c5)
+2026-05-07 06:55:56 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 2d x1 = $60000.0
+2026-05-07 06:55:56 - SoftwareFJ - INFO - Servicio creado: Asesoría en Desarrollo de Software (ID: 830eb941)
+2026-05-07 06:55:56 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 1 sesiones = $80000.0
+2026-05-07 06:55:56 - SoftwareFJ - CRITICAL - Error crítico en el sistema: cannot access local variable 'cliente1' where it is not associated with a value
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Cliente creado: carlos peña (ID: f713a1eb)
+2026-05-07 06:59:31 - SoftwareFJ - WARNING - Cliente María González sin teléfono
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Cliente creado: María González (ID: 96965f6c)
+2026-05-07 06:59:31 - SoftwareFJ - ERROR - Error al crear cliente: El formato del email es inválido
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Servicio creado: Sala de Reuniones Premium (ID: 9c9d8c36)
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 3h = $150000.0
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Servicio creado: Laptop HP EliteBook (ID: 31334b95)
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 2d x1 = $60000.0
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Servicio creado: Asesoría en Desarrollo de Software (ID: db05d82a)
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 1 sesiones = $80000.0
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 4h = $180000.0
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo calculado para reserva d7ee841f: $180000.0
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Reserva creada: carlos peña - Sala de Reuniones Premium (ID: d7ee841f, Costo: $180000.0)
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Reserva d7ee841f confirmada para carlos peña
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 3d x2 = $198000.00000000003
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo calculado para reserva dfe13de4: $198000.0
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Reserva creada: María González - Laptop HP EliteBook (ID: dfe13de4, Costo: $198000.0)
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Iniciando procesamiento de reserva dfe13de4
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Reserva dfe13de4 confirmada para María González
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Reserva dfe13de4 completada. Duración: 0:00:00.100748
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Reserva dfe13de4 procesada exitosamente
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Finalizando procesamiento de reserva dfe13de4
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 3 sesiones = $360000.0
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo calculado para reserva c7f463ac: $360000.0
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Reserva creada: carlos peña - Asesoría en Desarrollo de Software (ID: c7f463ac, Costo: $360000.0)
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 5 sesiones = $400000.0
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo calculado para reserva c7f463ac: $400000.0
+2026-05-07 06:59:31 - SoftwareFJ - INFO - Costo recalculado para reserva c7f463ac: $360000.0 → $400000.0
+2026-05-07 06:59:31 - SoftwareFJ - WARNING - Reserva c7f463ac cancelada. Motivo: Cliente canceló por conflicto de horario
+2026-05-07 06:59:31 - SoftwareFJ - ERROR - Error al crear servicio: El precio debe ser mayor a 0
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo sala Sala de Reuniones Premium: 2h = $100000.0
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo equipo Laptop HP EliteBook: 4d x1 = $120000.0
+2026-05-07 06:59:31 - SoftwareFJ - DEBUG - Costo asesoría Asesoría en Desarrollo de Software: 2 sesiones = $160000.0
